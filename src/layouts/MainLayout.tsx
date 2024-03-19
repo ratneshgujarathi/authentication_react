@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import '../styles/global.css'
+import "../assets/css/global.css"
 import Navbar from '../components/core/navigation/Navbar';
 import Footer from '../components/core/footer/Footer';
 import Container from '../components/core/container/Container';
